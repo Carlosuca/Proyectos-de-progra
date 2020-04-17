@@ -1,0 +1,10 @@
+/* int numeros;
+
+        System.out.print("digite un numero del cual quiere la secuencia: ");
+        numeros = entrada.nextInt();
+
+        for(int i=1; i<=numeros ; i++) {
+            System.out.print(" "+i);
+
+        }
+*/
