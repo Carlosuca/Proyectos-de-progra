@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2beb175b-9a2e-4029-a7ac-fb40f428c141" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CompraVideojuegos/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CompraVideojuegos/GestorArchivos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CompraVideojuegos/ConsolaJuegos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CompraVideojuegos/Banco.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CompraVideojuegos/Program.cs" />
+        <option value="$PROJECT_DIR$/CompraVideojuegos/Properties/ConsolaJuegos.cs" />
+        <option value="$PROJECT_DIR$/CompraVideojuegos/InvalidParameterException.cs" />
+        <option value="$PROJECT_DIR$/CompraVideojuegos/Banco.cs" />
+        <option value="$PROJECT_DIR$/CompraVideojuegos/ConsolaJuegos.cs" />
+        <option value="$PROJECT_DIR$/CompraVideojuegos/GestorArchivos.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bBt9XIJ3k9hrzRvtjqPRWNy2ti" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CompraVideojuegos" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CompraVideojuegos/CompraVideojuegos.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2beb175b-9a2e-4029-a7ac-fb40f428c141" name="Default Changelist" comment="" />
+      <created>1588117165982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588117165982</updated>
+      <workItem from="1588117173232" duration="3893000" />
+      <workItem from="1588202227755" duration="6993000" />
+      <workItem from="1588288679640" duration="3827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1557" height="258" key="GridCell.Tab.0.bottom" timestamp="1588306674183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="258" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588306674183" />
+    <state width="1557" height="258" key="GridCell.Tab.0.center" timestamp="1588306674183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="258" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588306674183" />
+    <state width="1557" height="258" key="GridCell.Tab.0.left" timestamp="1588306674183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="258" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588306674183" />
+    <state width="1557" height="258" key="GridCell.Tab.0.right" timestamp="1588306674183">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="258" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588306674183" />
+  </component>
+</project>

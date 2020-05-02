@@ -1,0 +1,5 @@
+C:\Users\Carlos\RiderProjects\CompraVideojuegos\CompraVideojuegos\bin\Debug\CompraVideojuegos.exe
+C:\Users\Carlos\RiderProjects\CompraVideojuegos\CompraVideojuegos\bin\Debug\CompraVideojuegos.pdb
+C:\Users\Carlos\RiderProjects\CompraVideojuegos\CompraVideojuegos\obj\Debug\CompraVideojuegos.csprojAssemblyReference.cache
+C:\Users\Carlos\RiderProjects\CompraVideojuegos\CompraVideojuegos\obj\Debug\CompraVideojuegos.exe
+C:\Users\Carlos\RiderProjects\CompraVideojuegos\CompraVideojuegos\obj\Debug\CompraVideojuegos.pdb
